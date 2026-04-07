@@ -1,0 +1,6 @@
+{
+  "name": "ticket-workflow",
+  "version": "1.0.0",
+  "description": "Jira-driven, multi-agent development workflow. Scoped per ticket with structured phases: overview → PRD → tasks → implementation → review. Includes ADR tracking and per-agent memory.",
+  "author": "your-github-username"
+}
